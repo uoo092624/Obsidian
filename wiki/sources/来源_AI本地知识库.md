@@ -11,7 +11,7 @@ updated: "2026-06-19"
 ## 来源信息
 - 原始文件：[[raw/AI本地知识库.md]]
 - 内容形态：Obsidian 图片嵌入
-- 图片：![[Codex联动Obsidian，搭建卡帕西同款知识库，手把手教程.png]]
+- 图片：![[attachements/Codex联动Obsidian，搭建卡帕西同款知识库，手把手教程.png]]
 
 ## 核心要点
 - 该来源本身文本很少，主要作为“Codex + Obsidian + Karpathy 风格知识库”教程图入口。

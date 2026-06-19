@@ -4,7 +4,7 @@
   "title": "这篇文档的质量怎么样？",
   "titleGenerationStatus": "failed",
   "createdAt": 1781856519237,
-  "updatedAt": 1781856591213,
+  "updatedAt": 1781865988004,
   "lastResponseAt": 1781856591213,
   "sessionId": "019edeec-c977-72a2-91ac-0a175d8356d3",
   "providerState": {
@@ -12,7 +12,6 @@
     "sessionFilePath": "C:\\Users\\admin\\.codex\\sessions\\2026\\06\\19\\rollout-2026-06-19T16-08-45-019edeec-c977-72a2-91ac-0a175d8356d3.jsonl",
     "transcriptRootPath": "C:\\Users\\admin\\.codex\\sessions"
   },
-  "currentNote": "Codex介绍.md",
   "usage": {
     "inputTokens": 31828,
     "cacheCreationInputTokens": 0,

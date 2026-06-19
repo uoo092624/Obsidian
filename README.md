@@ -44,7 +44,7 @@
 
 ## 🎨 框架总览
 
-![Pasted image 20260410195644.png](Attachments/Pasted%20image%2020260410195644.png)
+![Pasted image 20260410195644.png](attachments/Pasted%20image%2020260410195644.png)
 
 系统通过三层架构实现知识的持续积累和复利增长。
 

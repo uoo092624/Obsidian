@@ -30,7 +30,7 @@ tags:
 
 ## 第一批建议处理
 
-- [ ] `raw/Codex全解【视频文档】.md`
+- [x] `raw/Codex全解【视频文档】.md` -> [[2026-06-19 - 原始资料 - Codex全解【视频文档】]]
 - [ ] `raw/CodexGuide tutorial index.md`
 - [ ] `raw/AI本地知识库.md`
 - [ ] `llm-wiki.md`

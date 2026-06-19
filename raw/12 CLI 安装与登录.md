@@ -35,7 +35,7 @@ npm -v
 git --version
 ```
 
-![image-20260511165250308](../images/image-20260511165250308.png)
+![image-20260511165250308](attachments/image-20260511165250308.png)
 
 ## 安装 CLI
 
@@ -57,7 +57,7 @@ npm install -g @openai/codex@latest
 codex --version
 ```
 
-![image-20260511165422384](../images/image-20260511165422384.png)
+![image-20260511165422384](attachments/image-20260511165422384.png)
 
 ## 登录方式
 
@@ -69,7 +69,7 @@ codex
 
 根据终端提示完成登录。官方资料说明 Codex 可以通过 ChatGPT 账号在多个入口中使用，具体可用计划、限额和组织策略以 [Codex in ChatGPT Help Center](https://help.openai.com/en/articles/11369540-codex-in-chatgpt) 为准。
 
-![image-20260511165455390](../images/image-20260511165455390.png)
+![image-20260511165455390](attachments/image-20260511165455390.png)
 
 ## 第一次只读任务
 
@@ -90,7 +90,7 @@ codex
 4. 你建议我下一步交给你的 3 个低风险任务
 ```
 
-![image-20260511165723872](../images/image-20260511165723872.png)
+![image-20260511165723872](attachments/image-20260511165723872.png)
 
 ## 安装失败时怎么判断
 

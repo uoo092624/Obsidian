@@ -50,7 +50,7 @@
 
 ## 🏗️ Architecture · 三种文件类型
 
-![Pasted image 20260410195715.png](Attachments/Pasted%20image%2020260410195715.png)
+![Pasted image 20260410195715.png](attachments/Pasted%20image%2020260410195715.png)
 
 - **Raw Sources**：原始资料，不可变的事实来源
 - **Wiki Pages**：LLM 生成和维护的结构化知识页面

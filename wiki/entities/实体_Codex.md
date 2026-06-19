@@ -22,3 +22,11 @@ updated: "2026-06-19"
 - [[raw/Codex介绍.md]]
 - [[raw/实战案例库.md]]
 - [[raw/AI本地知识库.md]]
+
+## 新增操作型主题
+- [[wiki/sources/来源_Codex全解视频文档|来源：Codex全解视频文档]]
+- [[wiki/concepts/概念_Codex入门配置|Codex入门配置]]
+- [[wiki/concepts/概念_Codex持久记忆|Codex持久记忆]]
+- [[wiki/concepts/概念_Codex计划模式|Codex计划模式]]
+- [[wiki/concepts/概念_Codex插件生态|Codex插件生态]]
+- [[wiki/concepts/概念_Codex自动化任务|Codex自动化任务]]

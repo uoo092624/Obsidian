@@ -17,3 +17,9 @@ updated: "2026-06-19"
 ## 来源
 - [[raw/Codex介绍.md]]
 - [[raw/实战案例库.md]]
+
+## 来自 Codex全解视频文档的补充
+- 小白用户可直接把 MCP GitHub 链接交给 Codex，让 Codex 安装并引导重启、授权和确认。
+- 示例：notebooklm MCP。
+- MCP 的使用需要关注授权、重启、服务状态和写回权限。
+- 关联：[[wiki/sources/来源_Codex全解视频文档|来源：Codex全解视频文档]]。

@@ -18,3 +18,9 @@ updated: "2026-06-19"
 - [[raw/Codex介绍.md]]
 - [[raw/OpenClaw橙皮书_extracted.txt]]
 - [[raw/实战案例库.md]]
+
+## 来自 Codex全解视频文档的补充
+- 推荐 Skills：Find-Skill、Frontend-Design、humanizer-zh。
+- 可把 Skill 下载链接交给 Codex，由 Codex 协助部署。
+- 自建 Skill 的基本模式是：先跑通一套人工/AI 协作流程，再要求 Codex 将动作、步骤和标准打包成可复用 Skill。
+- 关联：[[wiki/sources/来源_Codex全解视频文档|来源：Codex全解视频文档]]、[[wiki/concepts/概念_Codex自动化任务|Codex自动化任务]]。

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/README.md",
+                "file": "Codex/raw/01 Codex 桌面 App 下载与安装.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01 Codex 桌面 App 下载与安装"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/README.md",
     "Codex/Obsidian搭建本地AI知识库.md",
     "Codex/TheSchema.md",
     "Codex/raw/04 手机端协同桌面任务.md",
@@ -272,7 +273,6 @@
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/readme.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/license.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/https-proxy-agent/README.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/parenthesis/README.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/debug/README.md"
+    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/parenthesis/README.md"
   ]
 }

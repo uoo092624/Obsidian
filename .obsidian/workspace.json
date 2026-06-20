@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/raw/AI本地知识库.md",
+                "file": "Codex/raw/01 Codex 桌面 App 下载与安装.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI本地知识库"
+              "title": "01 Codex 桌面 App 下载与安装"
             }
           }
         ]
@@ -226,8 +226,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "26fe1ce844ca2775",
+  "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/raw/AI本地知识库.md",
     "Codex/raw/assets/14 在 VS Code 中使用 Codex/image-20260511192700125.png",
     "Codex/raw/assets/14 在 VS Code 中使用 Codex/image-20260511192548524.png",
     "Codex/raw/assets/14 在 VS Code 中使用 Codex/image-20260511192430989.png",
@@ -240,7 +241,6 @@
     "Codex/raw/assets/17 Codex Cloud：使用云端模式/image-20260513124727322.png",
     "Codex/raw/assets/17 Codex Cloud：使用云端模式/image-20260513124638212.png",
     "Codex/raw/assets/17 Codex Cloud：使用云端模式/image-20260513124426627.png",
-    "Codex/raw/assets/17 Codex Cloud：使用云端模式/image-20260513124234976.png",
     "Codex/raw/assets/17 Codex Cloud：使用云端模式",
     "Codex/raw/assets/16 沙盒与审批",
     "Codex/raw/assets/15 AGENTS.md",

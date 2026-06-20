@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/raw/01 Codex 桌面 App 下载与安装.md",
+                "file": "Codex/raw/02 订阅 ChatGPT Plus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01 Codex 桌面 App 下载与安装"
+              "title": "02 订阅 ChatGPT Plus"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/raw/01 Codex 桌面 App 下载与安装.md",
     "Codex/raw/AI本地知识库.md",
     "Codex/raw/assets/14 在 VS Code 中使用 Codex/image-20260511192700125.png",
     "Codex/raw/assets/14 在 VS Code 中使用 Codex/image-20260511192548524.png",
@@ -250,7 +251,6 @@
     "Codex/raw/assets/09 技能与插件",
     "Codex/raw/assets/08 权限管理",
     "Codex/raw/assets/07 任务顺序执行与并行",
-    "Codex/raw/01 Codex 桌面 App 下载与安装.md",
     "Codex/wiki/outputs/codex_course_pack_index.md",
     "Codex/wiki/outputs/codex_asset_brief.md",
     "Codex/wiki/outputs/codex_marp_deck.md",

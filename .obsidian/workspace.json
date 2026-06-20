@@ -228,6 +228,8 @@
   },
   "active": "28d68f14ac93aa30",
   "lastOpenFiles": [
+    "attachments/x_2044309789967028575",
+    "attachments",
     "Codex/raw/Codex全解【视频文档】.md",
     "闲鱼/【X平台】24分钟讲完从0到月入过万流程.md",
     "闲鱼",
@@ -258,7 +260,6 @@
     "Codex/raw/assets/16 沙盒与审批",
     "Codex/raw/assets/15 AGENTS.md",
     "Codex/raw/assets/12 CLI 安装与登录",
-    "Codex/raw/assets/11 桌面宠物",
     "Codex/wiki/outputs/codex_course_pack_index.md",
     "Codex/wiki/outputs/codex_asset_brief.md",
     "Codex/wiki/outputs/codex_marp_deck.md",
@@ -272,7 +273,6 @@
     "Codex/wiki/index.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/skia-canvas/README.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/string-split-by/readme.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/readme.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/license.md"
+    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/readme.md"
   ]
 }

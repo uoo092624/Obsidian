@@ -19,11 +19,3 @@ tags:
 
 3⃣🔗https://github.com/shaxiu/XianyuAutoAgent…
 
-> **无颜 @WY\_mask** · 2026-04-21
-> 
-> 本仓库提供了一些利用人工智能工具开展副业赚钱的点子，汇集了各种方法和案例研究。如果您感兴趣，欢迎收藏。
-> 
-> https://github.com/XiaomingX/ai-m制钱手册…
-
----
-

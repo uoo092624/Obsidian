@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "f635a8730a6d0038",
+    "type": "split",
+    "children": [
+      {
+        "id": "d678a6b59c3a4f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313f32f0d7d1912f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af2744a1901a86c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2e5c427c319b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26fe1ce844ca2775",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "44e579e14753bf93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ec7968af4c76a401",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "24369b3eb5ac3138",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e47c5b3529417e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63df9b8a72bf6ec1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Codex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Codex 的反向链接列表"
+            }
+          },
+          {
+            "id": "516799e735679833",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Codex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Codex 的出链列表"
+            }
+          },
+          {
+            "id": "0e778153e24eace5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fbdc052e2e554520",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "578e3b2ceb9caaf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "26b69ee131abcdc1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "9f1b664259f1bccd",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "51701bd07813daa4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "578e3b2ceb9caaf9",
+  "lastOpenFiles": [
+    "TheSchema.md",
+    "Obsidian搭建本地AI知识库.md",
+    "raw/01 Codex 桌面 App 下载与安装.md",
+    "03_Notes/Concepts/概念 - Agentic Coding.md",
+    "05_Outputs/Courses/输出 - 课程 - Codex 入门课 - v1.md",
+    "01_Maps/Codex 知识地图.md",
+    "01_Maps/课程创作地图.md",
+    "03_Notes/Concepts/概念 - Codex 权限模式.md",
+    "02_Sources/Docs/2026-06-19 - 原始资料 - Codex全解【视频文档】.md",
+    "09_System/Plugin-Recommendations.md",
+    "06_Templates/Dashboard模板.md",
+    "06_Templates/每周整理模板.md",
+    "06_Templates/主题地图模板.md",
+    "06_Templates/提示词卡模板.md",
+    "06_Templates/课程卡模板.md",
+    "06_Templates/论文卡模板.md",
+    "06_Templates/案例卡模板.md",
+    "06_Templates/工具卡模板.md",
+    "06_Templates/概念卡模板.md",
+    "06_Templates/资料卡模板.md",
+    "03_Notes/Tools/工具 - Codex.md",
+    "09_System/Migration-Plan.md",
+    "09_System/Processing-SOP.md",
+    "09_System/Tag-Index.md",
+    "09_System/Dashboard.md",
+    "01_Maps/AI 教育知识地图.md",
+    "09_System",
+    "08_Archive/Processed-Raw",
+    "08_Archive/Old-Outputs",
+    "08_Archive/Deprecated",
+    "08_Archive",
+    "07_Attachments/PDFs/Papers",
+    "07_Attachments/PDFs/Docs",
+    "07_Attachments/PDFs/Books",
+    "07_Attachments/Images/Topic",
+    "07_Attachments/Images/2026",
+    "attachments/Pasted image 20260410195907.png",
+    "attachments/Pasted image 20260410195828.png",
+    "attachments/Pasted image 20260410195804.png",
+    "attachments/Pasted image 20260410195715.png",
+    "attachments/Pasted image 20260410195644.png",
+    "attachments/539.jpg",
+    "attachments/chatgpt-codex-get-started-clean.png",
+    "attachments/Xnapper-2026-05-11-15.08.36.png",
+    "attachments/subscribe-hero-sms.png",
+    "attachments/subscribe-appstoreprice-redeem.webp"
+  ]
+}

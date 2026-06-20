@@ -1,0 +1,26 @@
+{
+  "id": "conv-1781866091521-n9zyl5tkn",
+  "providerId": "codex",
+  "title": "请根据 TheSchema 的规范，针对我 @raw/ 文件夹下的 文档进行分析拆解并创建出相应的 ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781866091521,
+  "updatedAt": 1781877657736,
+  "lastResponseAt": 1781877657736,
+  "sessionId": "019edf7e-daef-7cc1-b525-cfe59987f355",
+  "providerState": {
+    "threadId": "019edf7e-daef-7cc1-b525-cfe59987f355",
+    "sessionFilePath": "C:\\Users\\admin\\.codex\\sessions\\2026\\06\\19\\rollout-2026-06-19T18-48-18-019edf7e-daef-7cc1-b525-cfe59987f355.jsonl",
+    "transcriptRootPath": "C:\\Users\\admin\\.codex\\sessions"
+  },
+  "currentNote": "TheSchema.md",
+  "usage": {
+    "inputTokens": 84899,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 84352,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 84899,
+    "percentage": 33,
+    "model": "gpt-5.5"
+  }
+}

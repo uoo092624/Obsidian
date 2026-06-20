@@ -58,5 +58,10 @@
   "defaultExportDirectoryMode": "Same",
   "openExportedFile": true,
   "env": {},
-  "showExportProgressBar": true
+  "showExportProgressBar": true,
+  "showOverwriteConfirmation": true,
+  "lastExportDirectory": {
+    "win32": "D:\\Obsidian/Codex/raw"
+  },
+  "lastExportType": "Markdown"
 }

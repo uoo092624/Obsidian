@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/AGENTS.md",
+                "file": "Codex/wiki/outputs/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "README"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/AGENTS.md",
+                "file": "Codex/wiki/outputs/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AGENTS 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -226,8 +226,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9f1b664259f1bccd",
+  "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/AGENTS.md",
     "Codex/wiki/comparisons/README.md",
     "Codex/wiki/comparisons",
     "Codex/wiki/exercises/README.md",
@@ -261,7 +262,6 @@
     "Codex/wiki/templates/模板_课时页.md",
     "Codex/wiki/templates/模板_课堂练习页.md",
     "Codex/wiki/templates/模板_演示脚本页.md",
-    "Codex/wiki/templates/模板_概念页.md",
     "Codex/wiki/templates",
     "Codex/wiki/outputs",
     "attachments/Pasted image 20260410195907.png",

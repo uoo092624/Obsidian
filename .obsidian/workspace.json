@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闲鱼/Post by @WY_mask on X.md",
+                "file": "闲鱼/兼职赚钱方案博物馆.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Post by @WY_mask on X"
+              "title": "兼职赚钱方案博物馆"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闲鱼/Post by @WY_mask on X.md",
+                "file": "闲鱼/兼职赚钱方案博物馆.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Post by @WY_mask on X 的大纲"
+              "title": "兼职赚钱方案博物馆 的大纲"
             }
           },
           {
@@ -228,6 +228,11 @@
   },
   "active": "28d68f14ac93aa30",
   "lastOpenFiles": [
+    "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag179.part",
+    "未命名.md",
+    "闲鱼/兼职赚钱方案博物馆.md",
+    "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag178.part",
+    "闲鱼/Post by @WY_mask on X.md",
     "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag177.part",
     "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag176.part",
     "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag175.part",
@@ -237,10 +242,7 @@
     "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag171.part",
     "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag170.part",
     "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag169.part",
-    "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag168.part",
-    "attachments/x_2044309789967028575/Vincent ｜ 信号＞噪音 - 闲鱼运营7年经验首次公开！24分钟讲完从0到月入过万全流程，建议立刻收藏！-2044307906867130368.fhls-1668.mp4.part-Frag167.part",
     "闲鱼/【X平台】24分钟讲完从0到月入过万流程.md",
-    "闲鱼/Post by @WY_mask on X.md",
     "Codex/raw/Codex全解【视频文档】.md",
     "Codex/raw/02 订阅 ChatGPT Plus.md",
     "Codex/raw/01 Codex 桌面 App 下载与安装.md",
@@ -271,8 +273,6 @@
     "Codex/wiki/outputs/codex_course_outline.md",
     "Codex/wiki/templates/模板_概念页.md",
     "Codex/wiki/demos/D01_从零完成第一个任务.md",
-    "Codex/wiki/index.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/skia-canvas/README.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/string-split-by/readme.md"
+    "Codex/wiki/index.md"
   ]
 }

@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "313f32f0d7d1912f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/raw/Codex全解【视频文档】.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Codex全解【视频文档】"
-            }
-          },
-          {
             "id": "28d68f14ac93aa30",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               "title": "【X平台】24分钟讲完从0到月入过万流程"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,7 +226,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "26fe1ce844ca2775",
+  "active": "28d68f14ac93aa30",
   "lastOpenFiles": [
     "Codex/raw/Codex全解【视频文档】.md",
     "闲鱼/【X平台】24分钟讲完从0到月入过万流程.md",

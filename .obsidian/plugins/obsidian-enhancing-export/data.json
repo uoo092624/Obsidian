@@ -55,7 +55,7 @@
   "pandocPath": {
     "win32": "D:\\Program Files\\pandoc-3.10\\pandoc.exe"
   },
-  "defaultExportDirectoryMode": "Auto",
+  "defaultExportDirectoryMode": "Same",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true

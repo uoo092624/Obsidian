@@ -1,3 +1,4 @@
+https://github.com/XiaomingX/ai-money-maker-handbook
 # 兼职赚钱方案博物馆
 
 ## 贡献方式

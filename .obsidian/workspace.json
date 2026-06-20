@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闲鱼/兼职赚钱方案博物馆.md",
+                "file": "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0002 通过极致提升单位时间产值赚钱.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "兼职赚钱方案博物馆"
+              "title": "ch0002 通过极致提升单位时间产值赚钱"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 400.5
   },
   "right": {
     "id": "24369b3eb5ac3138",
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闲鱼/【X平台】24分钟讲完从0到月入过万流程.md",
+                "file": "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0002 通过极致提升单位时间产值赚钱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【X平台】24分钟讲完从0到月入过万流程 的大纲"
+              "title": "ch0002 通过极致提升单位时间产值赚钱 的大纲"
             }
           },
           {
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -228,6 +228,9 @@
   },
   "active": "28d68f14ac93aa30",
   "lastOpenFiles": [
+    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0001 序言：打碎“技术思维”，建立“生意思维”.md",
+    "闲鱼/闲鱼最值得买的60个东西.md",
+    "闲鱼/兼职赚钱方案博物馆.md",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/mystyle.css",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/LICENSE",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0448.md",
@@ -253,8 +256,6 @@
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0428.md",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0427.md",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0426.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0425.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0424.md",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典",
     "闲鱼/ai-money-maker-handbook/创业者早期的烦恼树洞",
     "闲鱼/ai-money-maker-handbook/LICENSE",
@@ -263,7 +264,6 @@
     "闲鱼/ai-money-maker-handbook-main/程序员的副业赚钱宝典/LICENSE",
     "闲鱼/ai-money-maker-handbook-main/程序员的副业赚钱宝典",
     "闲鱼/ai-money-maker-handbook-main/创业者早期的烦恼树洞",
-    "闲鱼/ai-money-maker-handbook-main/LICENSE",
     "闲鱼/assets/闲鱼最值得买的60个东西/file-20260620215902050.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/image-20260511172444574.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/chatgpt-codex-get-started-clean.png",

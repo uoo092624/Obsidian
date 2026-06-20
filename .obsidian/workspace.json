@@ -11,10 +11,24 @@
             "id": "313f32f0d7d1912f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/Obsidian搭建本地AI知识库.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Obsidian搭建本地AI知识库"
             }
           }
         ]
@@ -152,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Codex/Obsidian搭建本地AI知识库.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Obsidian搭建本地AI知识库 的大纲"
             }
           },
           {
@@ -211,8 +226,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "578e3b2ceb9caaf9",
+  "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/TheSchema.md",
+    "Codex/README.md",
+    "Codex/Obsidian搭建本地AI知识库.md",
+    "Codex/llm-wiki.md",
     "TheSchema.md",
     "Obsidian搭建本地AI知识库.md",
     "raw/01 Codex 桌面 App 下载与安装.md",
@@ -235,10 +254,6 @@
     "06_Templates/资料卡模板.md",
     "03_Notes/Tools/工具 - Codex.md",
     "09_System/Migration-Plan.md",
-    "09_System/Processing-SOP.md",
-    "09_System/Tag-Index.md",
-    "09_System/Dashboard.md",
-    "01_Maps/AI 教育知识地图.md",
     "09_System",
     "08_Archive/Processed-Raw",
     "08_Archive/Old-Outputs",

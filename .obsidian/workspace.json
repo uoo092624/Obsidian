@@ -11,24 +11,10 @@
             "id": "313f32f0d7d1912f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/raw/01 Codex 桌面 App 下载与安装.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "01 Codex 桌面 App 下载与安装"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -228,6 +214,7 @@
   },
   "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/raw/01 Codex 桌面 App 下载与安装.md",
     "Codex/wiki/outputs/codex_course_pack_index.md",
     "Codex/wiki/outputs/~$codex_course_deck.pptx",
     "Codex/wiki/outputs/codex_asset_brief.md",

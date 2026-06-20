@@ -44,13 +44,13 @@
 
 ## 🎨 框架总览
 
-![Pasted image 20260410195644.png](./assets/README/Pasted image 20260410195644.png)
+![Pasted image 20260410195644.png](./assets/README/Pasted%20image%2020260410195644.png)
 
 系统通过三层架构实现知识的持续积累和复利增长。
 
 ## 🏗️ Architecture · 三种文件类型
 
-![Pasted image 20260410195715.png](./assets/README/Pasted image 20260410195715.png)
+![Pasted image 20260410195715.png](./assets/README/Pasted%20image%2020260410195715.png)
 
 - **Raw Sources**：原始资料，不可变的事实来源
 - **Wiki Pages**：LLM 生成和维护的结构化知识页面
@@ -58,7 +58,7 @@
 
 ## 🔄 Operations · 三个日常操作
 
-![Pasted image 20260410195804.png](./assets/README/Pasted image 20260410195804.png)
+![Pasted image 20260410195804.png](./assets/README/Pasted%20image%2020260410195804.png)
 
 ### 1. Ingest（导入）
 添加新资料到 `raw/`，LLM 阅读并：
@@ -82,7 +82,7 @@
 
 ## 🛠️ 辅助工具
 
-![Pasted image 20260410195828.png](./assets/README/Pasted image 20260410195828.png)
+![Pasted image 20260410195828.png](./assets/README/Pasted%20image%2020260410195828.png)
 
 - **index.md**：按类别组织的内容目录，帮助 LLM 快速定位
 - **log.md**：时间序列的操作记录，追溯知识演化
@@ -90,7 +90,7 @@
 
 ## 💡 使用建议
 
-![Pasted image 20260410195907.png](./assets/README/Pasted image 20260410195907.png)
+![Pasted image 20260410195907.png](./assets/README/Pasted%20image%2020260410195907.png)
 
 1. **保持原始资料不变**：`raw/` 目录只添加不修改
 2. **让 LLM 处理繁琐工作**：交叉引用、格式统一、一致性检查

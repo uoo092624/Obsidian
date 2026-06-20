@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "附件",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "pageSize": "Letter",

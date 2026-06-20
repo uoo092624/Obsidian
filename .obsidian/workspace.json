@@ -228,6 +228,8 @@
   },
   "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/raw/~$01 Codex 桌面 App 下载与安装.pptx",
+    "Codex/raw/01 Codex 桌面 App 下载与安装.pptx",
     "Codex/README.md",
     "Codex/Obsidian搭建本地AI知识库.md",
     "Codex/TheSchema.md",
@@ -256,7 +258,6 @@
     "Codex/raw/assets/10 自动化",
     "Codex/raw/assets/09 技能与插件",
     "Codex/raw/assets/08 权限管理",
-    "Codex/raw/assets/07 任务顺序执行与并行",
     "Codex/wiki/outputs/codex_course_pack_index.md",
     "Codex/wiki/outputs/codex_asset_brief.md",
     "Codex/wiki/outputs/codex_marp_deck.md",
@@ -272,7 +273,6 @@
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/string-split-by/readme.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/readme.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/license.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/https-proxy-agent/README.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/parenthesis/README.md"
+    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/https-proxy-agent/README.md"
   ]
 }

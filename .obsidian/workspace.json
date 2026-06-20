@@ -11,10 +11,24 @@
             "id": "313f32f0d7d1912f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Codex/raw/AI本地知识库.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AI本地知识库"
             }
           }
         ]
@@ -214,6 +228,9 @@
   },
   "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/raw/assets/AI本地知识库/file-20260620135715783.png",
+    "Codex/raw/assets/AI本地知识库",
+    "Codex/raw/assets",
     "Codex/raw/01 Codex 桌面 App 下载与安装.md",
     "Codex/wiki/outputs/codex_course_pack_index.md",
     "Codex/wiki/outputs/~$codex_course_deck.pptx",
@@ -244,8 +261,6 @@
     "Codex/wiki/outputs/codex_course_deck.pptx",
     "Codex/wiki/outputs/previews/slide-02.layout.json",
     "Codex/wiki/outputs/previews/slide-12.layout.json",
-    "Codex/wiki/outputs/previews/slide-11.layout.json",
-    "Codex/wiki/outputs/previews/slide-10.layout.json",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/skia-canvas/README.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/string-split-by/readme.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/readme.md",
@@ -258,7 +273,6 @@
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/detect-libc/README.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/LICENSE.md",
     "Codex/scripts/pptx_build/node_modules/lucide/README.md",
-    "Codex/wiki/course_schema.md",
-    "Codex/wiki/workflows/工作流_Output.md"
+    "Codex/wiki/course_schema.md"
   ]
 }

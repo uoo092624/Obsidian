@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/raw/02 订阅 ChatGPT Plus.md",
+                "file": "Codex/raw/Codex全解【视频文档】.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02 订阅 ChatGPT Plus"
+              "title": "Codex全解【视频文档】"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/raw/02 订阅 ChatGPT Plus.md",
+                "file": "Codex/raw/Codex全解【视频文档】.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02 订阅 ChatGPT Plus 的大纲"
+              "title": "Codex全解【视频文档】 的大纲"
             }
           },
           {
@@ -228,9 +228,9 @@
   },
   "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/raw/02 订阅 ChatGPT Plus.md",
     "Codex/raw/01 Codex 桌面 App 下载与安装.md",
     "Codex/raw/03 了解 Codex 桌面 App.md",
-    "Codex/raw/02 订阅 ChatGPT Plus.md",
     "Codex/raw/~$01 Codex 桌面 App 下载与安装.pptx",
     "Codex/raw/01 Codex 桌面 App 下载与安装.pptx",
     "Codex/README.md",

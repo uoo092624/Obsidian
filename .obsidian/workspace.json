@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/raw/03 了解 Codex 桌面 App.md",
+                "file": "Codex/raw/01 Codex 桌面 App 下载与安装.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03 了解 Codex 桌面 App"
+              "title": "01 Codex 桌面 App 下载与安装"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/raw/03 了解 Codex 桌面 App.md",
+                "file": "Codex/raw/01 Codex 桌面 App 下载与安装.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03 了解 Codex 桌面 App 的大纲"
+              "title": "01 Codex 桌面 App 下载与安装 的大纲"
             }
           },
           {
@@ -226,8 +226,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "578e3b2ceb9caaf9",
+  "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/raw/03 了解 Codex 桌面 App.md",
     "Codex/raw/02 订阅 ChatGPT Plus.md",
     "Codex/raw/01 Codex 桌面 App 下载与安装.md",
     "Codex/raw/~$01 Codex 桌面 App 下载与安装.pptx",
@@ -236,7 +237,6 @@
     "Codex/Obsidian搭建本地AI知识库.md",
     "Codex/TheSchema.md",
     "Codex/raw/04 手机端协同桌面任务.md",
-    "Codex/raw/03 了解 Codex 桌面 App.md",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/image-20260511172444574.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/chatgpt-codex-get-started-clean.png",
     "Codex/raw/AI本地知识库.md",

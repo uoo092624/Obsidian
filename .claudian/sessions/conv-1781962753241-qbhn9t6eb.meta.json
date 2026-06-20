@@ -4,6 +4,23 @@
   "title": "将这篇帖子https://x",
   "titleGenerationStatus": "failed",
   "createdAt": 1781962753241,
-  "updatedAt": 1781962753281,
-  "sessionId": null
+  "updatedAt": 1781963705360,
+  "lastResponseAt": 1781963705360,
+  "sessionId": "019ee541-db46-73c2-b580-31c1bdeb35f5",
+  "providerState": {
+    "threadId": "019ee541-db46-73c2-b580-31c1bdeb35f5",
+    "sessionFilePath": "C:\\Users\\admin\\.codex\\sessions\\2026\\06\\20\\rollout-2026-06-20T21-39-24-019ee541-db46-73c2-b580-31c1bdeb35f5.jsonl",
+    "transcriptRootPath": "C:\\Users\\admin\\.codex\\sessions"
+  },
+  "currentNote": "闲鱼/【X平台】24分钟讲完从0到月入过万流程.md",
+  "usage": {
+    "inputTokens": 21438,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20352,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 21438,
+    "percentage": 8,
+    "model": "gpt-5.5"
+  }
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/Obsidian搭建本地AI知识库.md",
+                "file": "Codex/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian搭建本地AI知识库"
+              "title": "README"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/Obsidian搭建本地AI知识库.md",
     "Codex/TheSchema.md",
     "Codex/raw/04 手机端协同桌面任务.md",
     "Codex/raw/03 了解 Codex 桌面 App.md",
@@ -272,7 +273,6 @@
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/license.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/https-proxy-agent/README.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/parenthesis/README.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/debug/README.md",
-    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/agent-base/README.md"
+    "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/debug/README.md"
   ]
 }

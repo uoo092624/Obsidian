@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -226,7 +226,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "313f32f0d7d1912f",
+  "active": "9f1b664259f1bccd",
   "lastOpenFiles": [
     "Codex/wiki/outputs/README.md",
     "Codex/wiki/outputs",

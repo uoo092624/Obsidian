@@ -3,9 +3,6 @@ source: https://codexguide.ai/guide/18-hooks
 raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/guide/18-hooks.md
 exported_at: 2026-06-20 00:01:34 +08:00
 ---
----
-description: "Codex Hooks 入门占位页，后续补充 Hooks 的用途、配置位置、事件类型、信任机制和常见实践。"
----
 
 # Hooks
 

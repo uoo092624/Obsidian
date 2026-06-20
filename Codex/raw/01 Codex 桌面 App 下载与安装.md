@@ -3,9 +3,6 @@ source: https://codexguide.ai/guide/01-app-installation
 raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/guide/01-app-installation.md
 exported_at: 2026-06-20 00:01:05 +08:00
 ---
----
-description: "Codex 桌面 App 下载与安装教程，说明 macOS、Windows 安装入口、账号登录和首次启动前的准备工作。"
----
 
 # Codex 桌面 App 下载与安装
 

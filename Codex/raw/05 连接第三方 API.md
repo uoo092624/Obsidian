@@ -3,9 +3,6 @@ source: https://codexguide.ai/guide/05-third-party-api
 raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/guide/05-third-party-api.md
 exported_at: 2026-06-20 00:01:18 +08:00
 ---
----
-description: "Codex 连接第三方 API 的入门说明，比较手动配置、Codex++、CCX 与 CC Switch 三种接入方式，并提示账号、密钥、账单和隐私风险。"
----
 
 # 连接第三方 API
 

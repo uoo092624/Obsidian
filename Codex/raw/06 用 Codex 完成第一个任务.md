@@ -4,7 +4,6 @@ raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/
 exported_at: 2026-06-20 00:01:21 +08:00
 ---
 ---
-description: "用 Codex 完成第一个任务的入门教程，带你选择工作目录、输入任务、查看结果并完成基础验证，形成操作习惯。"
 redirectFrom:
   - /guide/05-app-first-task.html
 ---

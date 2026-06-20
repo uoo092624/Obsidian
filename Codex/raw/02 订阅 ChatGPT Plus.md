@@ -3,9 +3,6 @@ source: https://codexguide.ai/guide/02-subscribe-plus
 raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/guide/02-subscribe-plus.md
 exported_at: 2026-06-20 00:01:08 +08:00
 ---
----
-description: "ChatGPT Plus 与 Pro 订阅指南，整理 Codex 可用性、账号准备、支付路径和订阅前需要核对的信息。"
----
 
 # 订阅 ChatGPT Plus / Pro
 

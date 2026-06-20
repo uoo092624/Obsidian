@@ -3,9 +3,6 @@ source: https://codexguide.ai/guide/03-app-overview
 raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/guide/03-app-overview.md
 exported_at: 2026-06-20 00:01:11 +08:00
 ---
----
-description: "Codex 桌面 App 基本组成说明，介绍项目工作区、对话、设置入口、任务状态和常见界面区域，方便快速定位功能。"
----
 
 # 了解 Codex 基本组成
 

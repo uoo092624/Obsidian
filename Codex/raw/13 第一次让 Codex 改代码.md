@@ -4,7 +4,6 @@ raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/
 exported_at: 2026-06-20 00:01:30 +08:00
 ---
 ---
-description: "第一次让 Codex CLI 改代码的教程，说明如何选择低风险任务、让 Codex 读仓库、修改文件并运行验证。"
 redirectFrom:
   - /guide/12-cli-first-run.html
 ---

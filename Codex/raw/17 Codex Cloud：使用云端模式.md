@@ -4,7 +4,6 @@ raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/
 exported_at: 2026-06-20 00:01:34 +08:00
 ---
 ---
-description: "Codex Cloud 使用指南，说明云端任务、仓库连接、长任务、PR 工作流和与本地 App、IDE 的差异。"
 redirectFrom:
   - /guide/16-cloud-ide-app.html
 ---

@@ -4,7 +4,6 @@ raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/
 exported_at: 2026-06-20 00:01:29 +08:00
 ---
 ---
-description: "Codex CLI 安装与登录教程，覆盖 Node 环境、安装命令、版本检查、登录流程和首次运行准备。"
 redirectFrom:
   - /guide/11-cli-installation.html
 ---

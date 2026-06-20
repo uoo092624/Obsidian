@@ -4,7 +4,6 @@ raw_source: https://raw.githubusercontent.com/freestylefly/CodexGuide/main/docs/
 exported_at: 2026-06-20 00:01:32 +08:00
 ---
 ---
-description: "AGENTS.md 项目规则指南，说明如何写入项目命令、代码风格、禁用事项、验证方式、团队约定和本地私有规则，让 Codex 更懂仓库。"
 redirectFrom:
   - /guide/14-agents-md.html
 ---

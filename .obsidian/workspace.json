@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/wiki/outputs/codex_course_pack_index.md",
+                "file": "Codex/raw/01 Codex 桌面 App 下载与安装.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "codex_course_pack_index"
+              "title": "01 Codex 桌面 App 下载与安装"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "313f32f0d7d1912f",
   "lastOpenFiles": [
+    "Codex/wiki/outputs/codex_course_pack_index.md",
     "Codex/wiki/outputs/~$codex_course_deck.pptx",
     "Codex/wiki/outputs/codex_asset_brief.md",
     "Codex/wiki/outputs/previews/codex_course_deck_montage.webp",
@@ -237,7 +238,6 @@
     "Codex/wiki/outputs/pdf_previews/codex_lesson_handout-1.png",
     "Codex/wiki/outputs/codex_lesson_handout.pdf",
     "Codex/wiki/outputs/codex_marp_deck.md",
-    "Codex/wiki/outputs/codex_course_pack_index.md",
     "Codex/wiki/outputs/README.md",
     "Codex/wiki/outputs/codex_lesson_handout.md",
     "Codex/wiki/outputs/codex_exercise_pack.md",
@@ -259,7 +259,6 @@
     "Codex/wiki/outputs/previews/slide-12.layout.json",
     "Codex/wiki/outputs/previews/slide-11.layout.json",
     "Codex/wiki/outputs/previews/slide-10.layout.json",
-    "Codex/wiki/outputs/previews/slide-09.layout.json",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/skia-canvas/README.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/string-split-by/readme.md",
     "Codex/scripts/pptx_build/node_modules/@oai/artifact-tool/node_modules/ms/readme.md",

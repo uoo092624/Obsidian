@@ -11,12 +11,24 @@
             "id": "28d68f14ac93aa30",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf"
+                "file": "闲鱼/闲鱼电商路线图.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Codex-Complete-Guide-zh-v2.0.1"
+              "icon": "lucide-file",
+              "title": "闲鱼电商路线图"
             }
           }
         ]
@@ -154,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
+                "file": "闲鱼/闲鱼电商路线图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Codex-Complete-Guide-zh-v2.0.1 的大纲"
+              "title": "闲鱼电商路线图 的大纲"
             }
           },
           {
@@ -216,10 +228,10 @@
   },
   "active": "28d68f14ac93aa30",
   "lastOpenFiles": [
-    "闲鱼/太强了！利用 Claude 为你的闲鱼店铺赋能，轻松实现盈利  𝕏Twitter 爆款文章追踪.md",
-    "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
-    "Codex/raw/未确认 663018.crdownload",
     "闲鱼/闲鱼榜单数据.md",
+    "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
+    "闲鱼/太强了！利用 Claude 为你的闲鱼店铺赋能，轻松实现盈利  𝕏Twitter 爆款文章追踪.md",
+    "Codex/raw/未确认 663018.crdownload",
     "闲鱼/闲鱼电商路线图.md",
     "闲鱼/百万Sir闲鱼运营全流程-视频文字稿.md",
     "Clippings",

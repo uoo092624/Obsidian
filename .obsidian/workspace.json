@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闲鱼/闲鱼小生意案例与微型服务逻辑.md",
+                "file": "闲鱼/【小红书】闲鱼小生意案例与微型服务逻辑.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "闲鱼小生意案例与微型服务逻辑"
+              "title": "【小红书】闲鱼小生意案例与微型服务逻辑"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闲鱼/闲鱼小生意案例与微型服务逻辑.md",
+                "file": "闲鱼/【小红书】闲鱼小生意案例与微型服务逻辑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "闲鱼小生意案例与微型服务逻辑 的大纲"
+              "title": "【小红书】闲鱼小生意案例与微型服务逻辑 的大纲"
             }
           },
           {
@@ -253,10 +253,11 @@
   },
   "active": "5726e402a912f67b",
   "lastOpenFiles": [
-    "闲鱼/assets/闲鱼小生意案例与微型服务逻辑/file-20260622221910607.png",
+    "闲鱼/assets/【小红书】闲鱼小生意案例与微型服务逻辑",
+    "闲鱼/assets/【小红书】闲鱼小生意案例与微型服务逻辑/file-20260622221954494.png",
     "闲鱼/assets/闲鱼小生意案例与微型服务逻辑",
     "闲鱼/【飞书】闲鱼电商路线图.md",
-    "闲鱼/闲鱼小生意案例与微型服务逻辑.md",
+    "闲鱼/【小红书】闲鱼小生意案例与微型服务逻辑.md",
     "闲鱼/【Codex】闲鱼运营资料库 + 学习路线.md",
     "闲鱼/闲鱼榜单数据.md",
     "闲鱼/【小红书】闲鱼选品工具.md",
@@ -297,7 +298,6 @@
     "Codex/raw/assets/14 在 VS Code 中使用 Codex/image-20260511192430989.png",
     "Codex/raw/assets/14 在 VS Code 中使用 Codex/image-20260511192103991.png",
     "Codex/raw/assets/13 第一次让 Codex 改代码/image-20260511170740040.png",
-    "Codex/raw/assets/13 第一次让 Codex 改代码/image-20260511170405298.png",
-    "Codex/raw/assets/13 第一次让 Codex 改代码/image-20260511170254461.png"
+    "Codex/raw/assets/13 第一次让 Codex 改代码/image-20260511170405298.png"
   ]
 }

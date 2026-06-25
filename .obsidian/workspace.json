@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "资料搜集流程SOP-Codex协作版"
             }
+          },
+          {
+            "id": "ec6e0c7721bac9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "闲鱼/【抖音精选】闲鱼选品工具.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "【抖音精选】闲鱼选品工具"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闲鱼/资料搜集流程SOP-Codex协作版.md",
+                "file": "闲鱼/【抖音精选】闲鱼选品工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "资料搜集流程SOP-Codex协作版 的大纲"
+              "title": "【抖音精选】闲鱼选品工具 的大纲"
             }
           },
           {
@@ -251,12 +275,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5726e402a912f67b",
+  "active": "ec6e0c7721bac9a3",
   "lastOpenFiles": [
+    "闲鱼/【抖音精选】从二手市场到认知角斗场：闲鱼 5000 亿非标商业生态完整解读.md",
+    "闲鱼/资料搜集流程SOP-Codex协作版.md",
     "闲鱼/codex-windows-sandbox-enable.log",
     "闲鱼/【抖音精选】闲鱼选品工具.md",
     "闲鱼/资料采集卡片模板.md",
-    "闲鱼/资料搜集流程SOP-Codex协作版.md",
     "闲鱼/%SystemDrive%/ProgramData/SogouInput/Components/Picface/Cloud/sgim_picface_cloud.bin",
     "闲鱼/%SystemDrive%/ProgramData/SogouInput/Components/Picface/Cloud/sgim_picface_cloud_bak.bin",
     "闲鱼/%SystemDrive%/ProgramData/SogouInput/Components/Picface/Cloud",
@@ -269,13 +294,11 @@
     "闲鱼/闲鱼最值得买的60个东西.md",
     "Clippings/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
     "闲鱼/【小红书】闲鱼小生意案例与微型服务逻辑.md",
-    "闲鱼/assets/【小红书】闲鱼小生意案例与微型服务逻辑",
     "闲鱼/assets/【小红书】闲鱼小生意案例与微型服务逻辑/file-20260622221954494.png",
     "闲鱼/【飞书】闲鱼电商路线图.md",
     "闲鱼/【Codex】闲鱼运营资料库 + 学习路线.md",
     "闲鱼/闲鱼榜单数据.md",
     "闲鱼/【小红书】闲鱼选品工具.md",
-    "闲鱼/未命名.md",
     "闲鱼/太强了！利用 Claude 为你的闲鱼店铺赋能，轻松实现盈利  𝕏Twitter 爆款文章追踪.md",
     "闲鱼/百万Sir闲鱼运营全流程-视频文字稿.md",
     "Clippings/QuestMobile2026中国移动互联网春季大报告：结构性大变局来临，用户跨行业、跨终端迁移，部分行业黏性飙涨，如何适应新常态？-行业研究报告-QuestMobile.md",

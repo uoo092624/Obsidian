@@ -11,76 +11,15 @@
             "id": "28d68f14ac93aa30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "闲鱼/【飞书】闲鱼电商路线图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Codex/raw/Codex橙皮书.pdf"
               },
-              "icon": "lucide-file",
-              "title": "【飞书】闲鱼电商路线图"
-            }
-          },
-          {
-            "id": "5726e402a912f67b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "闲鱼/资料搜集流程SOP-Codex协作版.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "资料搜集流程SOP-Codex协作版"
-            }
-          },
-          {
-            "id": "ec6e0c7721bac9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解"
+              "icon": "lucide-file-text",
+              "title": "Codex橙皮书"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
+                "file": "Codex/raw/Codex橙皮书.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解 的大纲"
+              "title": "Codex橙皮书 的大纲"
             }
           },
           {
@@ -275,9 +214,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ec6e0c7721bac9a3",
+  "active": "28d68f14ac93aa30",
   "lastOpenFiles": [
-    "Codex/Codex橙皮书.pdf",
+    "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
+    "Codex/raw/Codex橙皮书.pdf",
+    "Codex/raw/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
     "Codex/raw/AI本地知识库.md",
     "2026中国电商AI应用白皮书.pdf",
     "Codex/未确认 34858.crdownload",
@@ -294,7 +235,6 @@
     "闲鱼/资料搜集流程SOP-Codex协作版.md",
     "闲鱼/资料采集卡片模板.md",
     "闲鱼/闲鱼最值得买的60个东西.md",
-    "Clippings/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
     "闲鱼/【小红书】闲鱼小生意案例与微型服务逻辑.md",
     "闲鱼/assets/【小红书】闲鱼小生意案例与微型服务逻辑/file-20260622221954494.png",
     "闲鱼/【飞书】闲鱼电商路线图.md",

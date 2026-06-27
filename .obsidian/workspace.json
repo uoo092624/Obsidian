@@ -59,12 +59,24 @@
             "id": "ec6e0c7721bac9a3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Codex/Codex橙皮书.pdf"
+                "file": "Clippings/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Codex橙皮书"
+              "icon": "lucide-file",
+              "title": "20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解"
             }
           }
         ],
@@ -203,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/Codex橙皮书.pdf",
+                "file": "Clippings/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Codex橙皮书 的大纲"
+              "title": "20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解 的大纲"
             }
           },
           {
@@ -263,10 +275,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "26fe1ce844ca2775",
+  "active": "ec6e0c7721bac9a3",
   "lastOpenFiles": [
-    "Codex/raw/AI本地知识库.md",
     "Codex/Codex橙皮书.pdf",
+    "Codex/raw/AI本地知识库.md",
     "2026中国电商AI应用白皮书.pdf",
     "Codex/未确认 34858.crdownload",
     "新建文件夹",
@@ -301,7 +313,6 @@
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0446.md",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0445.md",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0444.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0443.md",
     "闲鱼/assets/闲鱼最值得买的60个东西/file-20260620215902050.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/image-20260511172444574.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/chatgpt-codex-get-started-clean.png",

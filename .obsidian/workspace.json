@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Codex/raw/Codex橙皮书.pdf"
+                "file": "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Codex橙皮书"
+              "title": "Codex-Complete-Guide-zh-v2.0.1"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/raw/Codex橙皮书.pdf",
+                "file": "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Codex橙皮书 的大纲"
+              "title": "Codex-Complete-Guide-zh-v2.0.1 的大纲"
             }
           },
           {
@@ -216,8 +216,8 @@
   },
   "active": "28d68f14ac93aa30",
   "lastOpenFiles": [
-    "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
     "Codex/raw/Codex橙皮书.pdf",
+    "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
     "Codex/raw/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
     "Codex/raw/AI本地知识库.md",
     "2026中国电商AI应用白皮书.pdf",

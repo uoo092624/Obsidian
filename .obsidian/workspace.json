@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d678a6b59c3a4f00",
+        "id": "93cc95a48f9796a5",
         "type": "tabs",
         "children": [
           {
-            "id": "28d68f14ac93aa30",
+            "id": "1dede68dd9c3c7fa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf"
+                "file": "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Codex-Complete-Guide-zh-v2.0.1"
+              "icon": "lucide-file",
+              "title": "【Codex】MCP,Skill,Plugins三者有什么别"
             }
           }
         ]
@@ -154,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
+                "file": "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Codex-Complete-Guide-zh-v2.0.1 的大纲"
+              "title": "【Codex】MCP,Skill,Plugins三者有什么别 的大纲"
             }
           },
           {
@@ -214,10 +226,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "28d68f14ac93aa30",
+  "active": "1dede68dd9c3c7fa",
   "lastOpenFiles": [
-    "Codex/raw/Codex橙皮书.pdf",
+    "Codex/raw/【Codexguide】Skills 和 Plugins.md",
+    "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
+    "Codex/raw/【Codex】frontend-design Figma Product Design三者区别.md",
+    "Codex/raw/06 用 Codex 完成第一个任务.md",
+    "Codex/raw/01 Codex 桌面 App 下载与安装.md",
     "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
+    "Codex/raw/Codex橙皮书.pdf",
     "Codex/raw/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
     "Codex/raw/AI本地知识库.md",
     "2026中国电商AI应用白皮书.pdf",
@@ -228,7 +245,6 @@
     "闲鱼/research_system/research_system/reporting",
     "闲鱼/research_system/research_system/processors",
     "闲鱼/research_system/research_system/db",
-    "闲鱼/research_system/research_system/collectors",
     "闲鱼/【小红书】闲鱼选品工具.md",
     "闲鱼/【抖音精选】闲鱼选品工具.md",
     "闲鱼/【抖音精选】从二手市场到认知角斗场：闲鱼 5000 亿非标商业生态完整解读.md",
@@ -249,10 +265,6 @@
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0001 序言：打碎“技术思维”，建立“生意思维”.md",
     "闲鱼/兼职赚钱方案博物馆.md",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0448.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0447.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0446.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0445.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0444.md",
     "闲鱼/assets/闲鱼最值得买的60个东西/file-20260620215902050.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/image-20260511172444574.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/chatgpt-codex-get-started-clean.png",

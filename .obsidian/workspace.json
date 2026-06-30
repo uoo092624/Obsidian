@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "93cc95a48f9796a5",
+        "id": "cd5fc4d53e8a384d",
         "type": "tabs",
         "children": [
           {
-            "id": "1dede68dd9c3c7fa",
+            "id": "9ddf366974e720a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf"
               },
-              "icon": "lucide-file",
-              "title": "【Codex】MCP,Skill,Plugins三者有什么别"
+              "icon": "lucide-file-text",
+              "title": "2026中国AI应用全景图谱报告【量子位智库】"
             }
           }
         ]
@@ -166,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
+                "file": "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【Codex】MCP,Skill,Plugins三者有什么别 的大纲"
+              "title": "2026中国AI应用全景图谱报告【量子位智库】 的大纲"
             }
           },
           {
@@ -226,10 +214,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1dede68dd9c3c7fa",
+  "active": "9ddf366974e720a1",
   "lastOpenFiles": [
-    "Codex/raw/【Codexguide】Skills 和 Plugins.md",
+    "晨希AI工作室/2026中国AI应用全景图谱.png",
+    "晨希AI工作室/2026中国电商AI应用白皮书.pdf",
     "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
+    "Codex/raw/【Codexguide】Skills 和 Plugins.md",
     "Codex/raw/【Codex】frontend-design Figma Product Design三者区别.md",
     "Codex/raw/06 用 Codex 完成第一个任务.md",
     "Codex/raw/01 Codex 桌面 App 下载与安装.md",
@@ -237,7 +227,6 @@
     "Codex/raw/Codex橙皮书.pdf",
     "Codex/raw/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
     "Codex/raw/AI本地知识库.md",
-    "2026中国电商AI应用白皮书.pdf",
     "Codex/未确认 34858.crdownload",
     "新建文件夹",
     "闲鱼/research_system/tests",
@@ -264,7 +253,6 @@
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0002 通过极致提升单位时间产值赚钱.md",
     "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0001 序言：打碎“技术思维”，建立“生意思维”.md",
     "闲鱼/兼职赚钱方案博物馆.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0448.md",
     "闲鱼/assets/闲鱼最值得买的60个东西/file-20260620215902050.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/image-20260511172444574.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/chatgpt-codex-get-started-clean.png",

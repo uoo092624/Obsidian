@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
+                "file": "晨希AI工作室/hai_ai_index_report_2025.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026中国AI应用全景图谱报告【量子位智库】 的大纲"
+              "title": "hai_ai_index_report_2025 的大纲"
             }
           },
           {
@@ -214,8 +214,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9ddf366974e720a1",
+  "active": "26fe1ce844ca2775",
   "lastOpenFiles": [
+    "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
     "晨希AI工作室/hai_ai_index_report_2025.pdf",
     "晨希AI工作室/未确认 730799.crdownload",
     "晨希AI工作室/2026中国AI应用全景图谱.png",
@@ -234,7 +235,6 @@
     "闲鱼/research_system/tests",
     "闲鱼/research_system/research_system/scoring",
     "闲鱼/research_system/research_system/reporting",
-    "闲鱼/research_system/research_system/processors",
     "闲鱼/【小红书】闲鱼选品工具.md",
     "闲鱼/【抖音精选】闲鱼选品工具.md",
     "闲鱼/【抖音精选】从二手市场到认知角斗场：闲鱼 5000 亿非标商业生态完整解读.md",

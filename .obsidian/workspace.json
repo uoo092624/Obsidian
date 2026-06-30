@@ -11,12 +11,24 @@
             "id": "9ddf366974e720a1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf"
+                "file": "Codex/TheSchema.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "2026中国AI应用全景图谱报告【量子位智库】"
+              "icon": "lucide-file",
+              "title": "TheSchema"
             }
           }
         ]
@@ -154,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/raw/【Codex】frontend-design Figma Product Design三者区别.md",
+                "file": "Codex/TheSchema.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【Codex】frontend-design Figma Product Design三者区别 的大纲"
+              "title": "TheSchema 的大纲"
             }
           },
           {
@@ -214,8 +226,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "26fe1ce844ca2775",
+  "active": "9ddf366974e720a1",
   "lastOpenFiles": [
+    "Codex/README.md",
+    "Codex/Obsidian搭建本地AI知识库.md",
+    "Codex/llm-wiki.md",
+    "Codex/raw/CodexGuide tutorial index.md",
+    "Codex/raw/Codex橙皮书.pdf",
+    "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
+    "Codex/raw/AI本地知识库.md",
+    "Codex/raw/【Codex】frontend-design Figma Product Design三者区别.md",
     "晨希AI工作室/hai_ai_index_report_2025.pdf",
     "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
     "晨希AI工作室/未确认 730799.crdownload",
@@ -223,18 +243,13 @@
     "晨希AI工作室/2026中国电商AI应用白皮书.pdf",
     "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
     "Codex/raw/【Codexguide】Skills 和 Plugins.md",
-    "Codex/raw/【Codex】frontend-design Figma Product Design三者区别.md",
     "Codex/raw/06 用 Codex 完成第一个任务.md",
     "Codex/raw/01 Codex 桌面 App 下载与安装.md",
-    "Codex/raw/Codex-Complete-Guide-zh-v2.0.1.pdf",
-    "Codex/raw/Codex橙皮书.pdf",
     "Codex/raw/20元开通GPT Plus 代充漏洞技术解构：iOS 收据校验缺陷与灰产套利链路全拆解.md",
-    "Codex/raw/AI本地知识库.md",
     "Codex/未确认 34858.crdownload",
     "新建文件夹",
     "闲鱼/research_system/tests",
     "闲鱼/research_system/research_system/scoring",
-    "闲鱼/research_system/research_system/reporting",
     "闲鱼/【小红书】闲鱼选品工具.md",
     "闲鱼/【抖音精选】闲鱼选品工具.md",
     "闲鱼/【抖音精选】从二手市场到认知角斗场：闲鱼 5000 亿非标商业生态完整解读.md",
@@ -251,9 +266,6 @@
     "Clippings/QuestMobile2026中国移动互联网春季大报告：结构性大变局来临，用户跨行业、跨终端迁移，部分行业黏性飙涨，如何适应新常态？-行业研究报告-QuestMobile.md",
     "闲鱼/【X平台】24分钟讲完从0到月入过万流程.md",
     "闲鱼/ai-money-maker-handbook/README.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0002 通过极致提升单位时间产值赚钱.md",
-    "闲鱼/ai-money-maker-handbook/程序员的副业赚钱宝典/ch0001 序言：打碎“技术思维”，建立“生意思维”.md",
-    "闲鱼/兼职赚钱方案博物馆.md",
     "闲鱼/assets/闲鱼最值得买的60个东西/file-20260620215902050.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/image-20260511172444574.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/chatgpt-codex-get-started-clean.png",

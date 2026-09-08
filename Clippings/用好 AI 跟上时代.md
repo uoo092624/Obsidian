@@ -1,6 +1,6 @@
 ---
 title: "用好 AI 跟上时代"
-source: "https://scys.com/money-ideas/detail/60"
+source: "https://scys.com/articleDetail/xq_topic/45544415445228848"
 author:
 published:
 created: 2026-09-08
@@ -8,118 +8,104 @@ description: "生财有术是专注普通人学习 AI 与创业的实战型社�
 tags:
   - "clippings"
 ---
-## AI ToB 培训师
+精华
 
-抖音小红书AI定制服务服务技能
+大家好，我是ken。做过5年淘系国内电商和5年外贸B2B。从19年开始就转到外贸，在23年初开始就有在幕布做笔记的习惯，这也就是我能在半天完成小红书虚拟资料搭建的原因。但最主要的原因是在线下找Alice喝咖啡链接到叁斤教练，他大概讲了一下他是如何做小红书变现的逻辑，然后我想起躺在幕布好久的外贸资料，应该也能行，就这个契机，我就开始操作并赚回一张门票。
 
-信息差仍在｜老板愿付费｜市场在爆发
+这篇文章可以帮到你：
 
-收录时间：02-09
+1.如何快速搭建资料库（ima知识库）
 
-## 这是什么项目？
+a.细分行业市场调研
 
-**企业愿意花上万块请人讲半天课，只为让员工学会用 AI** 。
+b.快速搭建最小MVP
 
-DeepSeek、Claude code、AI 工作流这些工具，老板们天天听说，但真要落地到业务里，发现公司上下没人能讲明白。银行要教柜员用 AI 写报告，工厂要教质检员出分析方案，高校抢着开 AI 通识课—— **需求在井喷，但能交付的人严重不足** 。
+2.如何2-3小时快速生成一周小红书帖子的发布量
 
-这不是靠嘴皮子就能干的活。你得真正理解企业的业务场景，能把 AI 工具和具体岗位的工作流结合起来，让学员上完课就能用。 **你帮老板省下的，可能是好几个员工一年的人力成本** 。这笔账，老板算得很清楚。
+a.收集参考爆款笔记
 
-在抖音小红书发实操干货建立专业形象，企业客户会主动找上门。二三线城市机会更大，很多企业连"AI 培训"这个品类都没接触过。 **现在进场，是吃市场红利的窗口期** 。
+b.快速生成笔记语料编辑帖子
 
-## 有哪些案例？ (6个)
+1.如何快速搭建资料库（ima知识库）
+
+第1点：总GMV：十多万（体量不大，但是对于我兼职来说足够）
+
+第2点：商品价格：94.9元（价格适中）
+
+第3点：交付方式：网盘链接的PDF文档（交付轻松，但是容易盗版）
+
+第4点：发货：自动销售发货（省事）
+
+一开始我是79.9，出单了马上提到了99.9，反正做的事差不多，该买的不会在意这20块。哈哈哈
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/KXzzbZFHNoSrMQxEYUSc0hrYnth?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/RzxlbzDPAoCq2YxkzB2cQ45dnAe?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+▲我的幕布资料库，记录了学习笔记、感悟和各种付费学习的痕迹
+
+为了保持商品竞争力，我在卖外贸资料的同时还附加一个外贸智能体（IMA知识库自带的AI模型回答，跟进投喂的资料决定输出的资料），基本上就能做到跟市面的资料有差异化，还能有超值的感觉。
+
+步骤1：
+
+基于我的资料，把所有关于外贸的资料，我将它导出word文档或者PDF文档，然后上传到Ima知识库，将知识库名字改为外贸智能体（提问专属），这个作为小白入行的答疑。
+
+为了更具竞争力，我又花了重金（咸鱼价格）把能买的资料也买回来填充一下知识库，哈哈哈。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/ChewbK8q4oQz8LxhbCLcKppZnGh?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/ZFvsbEuqvohmCtx95NHc6kCznTc?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+步骤2：同时可以不断的生成高质量的语料，通过ima的任务模型完成（这个超出我的预期），但是每天只有5次，如果大家本身语料比较少，可以拉几个小号加入生成就可以完成。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/KDbjbptacoxfbNxzLfmcxefBnDd?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+基于语料生成的资料，比市面PDF文档强太多，建议大家试试。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/WRj8b1WEnoiKZwxKFtZc3Y6dnPg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+步骤3：再建一个外贸0-1全流程智库知识库，这个就是对外宣传销售的。一个看资料，一个问答，到这里就很专业了，足够打市面上对标资料，后面就每天生成一下语料就可以，一直更新，价格还可以往上走走，后期可以在知识库简介更新内容（免费广告位）
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/ZiMybLihMo1Wpnx10djc0Ub8nic?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/AKzJbJJMeot9mExhrGvc2Hkon3f?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+步骤4：将商品上架到个人售卖，和上架商品链接。我甚至在清明那天才开始上架到商品链接，因为之前说虚拟资料需要资料啥的，一直没去弄，后来在咸鱼买了服务叫人开通，原来才十多块就可以，然后上架也秒出单，有点惊讶到我，为此我还马上给朝暮分享，毕竟他是有在做小红书虚拟资料这块。
+
+创建商品非常简单，参考同行替换一下自己的就是，基本上我就是图片加上描述就搞定，这块十来分钟就完事。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/A0h0bzkRpoTtuZxtxVLc3gEanJh?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/UUvSbKcnwoUBXixRWBEcib8LnLf?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/TXMIbGp9oobZwQxwn7jcRtvLnue?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+2.如何2-3小时快速生成一周小红书帖子的发布量
+
+我们只需要找到热门话题就可以，避免跟同行同质化，我们甚至还不需要去改写同行的帖子，一直往下拉就行，把点赞大于100以上的图文帖的标题收集起来即可，非常的简单粗暴。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/CF3ibGiD7o7NYOxGDNocPekInTg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+这里也只需要找到热门的帖子，然后找图文贴巴拉下标题就行，不过小红书首页搜索关键词这就足够我操作了。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/TSLHb5LNVomOPPxMoLEcieWWnBh?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+b.快速生成笔记语料编辑帖子
+
+我把自己常用的提示词放下：
+
+```
+外贸博主小红书干货笔记ima知识库专属提示词  核心身份设定： 你是我的专属小红书外贸内容创作助手，全程贴合专业接地气、不说废话、纯可落地、真诚同行交流的干货博主人设，禁止官方套话、禁止鸡汤、禁止虚头巴脑的内容，精准对准外贸新人、SOHO、想提升出单效率的业务员群体，全程戳外贸人真实痛点，营造同行唠干货的氛围感，最终实现：输出干货价值→涨粉→引导关注领资料→转化外贸知识库的目标。   核心创作指令（必填+格式硬性要求）： 1. 内容定制规则（每次生成主题必须不重复） - 本次主题：从【外贸报价技巧、客户开发、邮件模板、谈判避坑、新人入门、询盘转化、催单话术、货代避坑】里随机选1个小众刚需方向，禁止和历史生成主题重复  - 核心痛点：匹配主题，锁定外贸人高频痛点（没客户、发邮件不回、报价就消失、没人带、不会催单、询盘接不住、SOHO孤军奋战、新人踩坑多）  - 输出形式：固定用【N个技巧/N个模板/N个避坑点】结构，N取值3-5个，保证干货密度  2. 小红书爆款结构（严格按顺序执行）  - 标题模块：撰写5个备选标题，格式统一为数字+痛点+利益点/提问式，必须植入「外贸、外贸新人、SOHO、出单」核心关键词，吸睛且贴合平台流量逻辑  - 开头模块：1-2句话，搭配1个轻量emoji，精准戳中外贸人痛点，快速引发共鸣，不啰嗦、不铺垫  - 正文模块：分点清晰，每段仅限1-2句话，禁止大段文字；内容纯可落地，直接给步骤/话术/思路/避坑细节；穿插1-2句博主个人真实实操经验，增强真人感；适度搭配✅📝✨⚠️等干货emoji标注重点  - 结尾引流模块：必须自然植入固定话术：“想要系统性学习外贸的童学，可以看下方外贸智库，持续更新外贸干货，帮你少走弯路。”，额外追加引导收藏、关注的话术，衔接流畅不生硬  - 字数要求：严格控制在1000-1500字，贴合小红书爆款笔记字数区间  - 标签模块：搭配8个精准标签，严格按比例分配：1个大流量标签+3个精准标签+2个小众标签+2个人设标签  3. 额外禁忌要求  禁止同质化内容、禁止重复话术、禁止脱离外贸实操场景、禁止生硬广告感，全程保持口语化同行分享感，干货含金量拉满，适配小红书平台推荐机制。
+```
+
+如果有显示标注出处，就再加一个去掉标注就行。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/HV0gbHeuko3B8VxPzGlcfQW4nYb?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/Ov9HbgTVIoptqoxs9amcYn5snAc?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+我是用电脑操作的，点发布笔记写长文，然后将ima知识库生成的语料复制进去，一键排版，然后把标签复制就可以了。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/ON5Dbf9r9opd8DxYk0QcGlw1nEh?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/CdffbgoOSo2H3UxjVUlcZyG6n9f?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/GiQDbCIgVoYDk0xBQeZcAwRknke?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/TdAzbEjMfoLx3JxStsJcCo7Vnvf?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/MQY0bit1DoKQrkxzewmcvrUznGd?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+原创可以选上也可以不选，时间自己定，上架了商品的话就可以添加一下。最后给大家看看我的笔记的效果，最近有点懒一个星期没更新了，哈哈哈。
+
+![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/Z0ccb7DLWor4IQx0PTKcY1fcnlg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/OXxgbya1qo8mVJxAM3ocpZJInDe?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://sphere-search-mobile.oss-cn-shanghai.aliyuncs.com/upload/doc/blocks/TlBxbn3cIoKsnlx5hBbckR0XnMc?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
+
+最后：
+
+感谢大家的观看。
+
+最近生财出了个《生财有术第九年百大文章》的活动，如果觉得文章对你有启发，有帮助。恳请各位圈友动动发财的小手，给我一键三连（投锚点、点赞、收藏）。也欢迎再评论区跟我探讨，自当知无不言！
 
 小红书
 
-给企业银行高校做 AI 办公培训，几小时教会提效，单场上万月赚 5 千到 1.7 万
-
-查看详情
-
-![](https://search01.shengcaiyoushu.com/public/upload/2026-02-11/b15ebcc1ad524689a6f00183fa537a7d/project_img_1770182269727___27_AI_ToB_______1_eea57b5d.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) ![](https://search01.shengcaiyoushu.com/public/upload/2026-02-11/f6471f41b8a74138b8eb97e7080f2c5c/project_img_1770182274621___27_AI_ToB_______2_1710cd57.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp) 抖音
-
-抖音发 AI 教学涨 9 万粉，给政企做定制培训，课时费上千月赚 5 千到 1.7 万
-
-查看详情
-
-![](https://search01.shengcaiyoushu.com/public/upload/2026-02-11/57920ee3144b4d16844c3f5b24d90bc4/project_img_1770182278636___27_AI_ToB_______3_b075aefc.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp)
-
-## 为什么值得做？
-
-**企业真的不会用** ：工具更新太快，90%的公司员工根本跟不上。你只要比他们多玩几个月，就能当老师。
-
-**老板掏钱痛快** ：半天培训费上万，但能帮公司省下几个人的工资。银行、政府、上市公司都在抢着找人，有人 **半天赚了一个月工资** 。
-
-**市场缺口巨大** ：从银行到学校到工厂，全都喊着要"降本增效"。但能接单的培训师严重不够，你进场就是吃红利。
-
-## 怎么赚钱？
-
-¥
-
-**企业定制内训** ：根据客户行业定制 AI 实操培训方案，教员工用 DeepSeek 写文稿、用 AI 做 PPT 和数据分析，按场次收费几千到上万元
-
-¥
-
-**C 端小班课起步** ：先做 99-799 元的线下 AI 办公夜校或训练营，积累教学案例和学员口碑，为切入 B 端做跳板
-
-¥
-
-**AI 落地咨询服务** ：帮企业梳理哪些岗位能用 AI 提效，部署智能体和 AI 工作流，按项目或按节省成本提成收费
-
-## 能赚多少？
-
-启动成本
-
-**0-500 元** 。主要是 AI 工具订阅费和学习时间，海报用 roboneo 免费生成
-
-预期收益
-
-**月入 5 千-1.7 万** 。C 端小班课月入几千，切入 B 端企业内训后单场几千到上万
-
-回本周期
-
-**2-4 周** 。从 C 端 99 元小班课起步，20 天内可跑通第一场培训并收到回款
-
-## 怎么做？
-
-**选定你的培训方向** ：从你熟悉的行业切入，比如办公提效（文稿、PPT、Excel）、营销内容生成、客服自动化。不需要样样精通，把一个方向讲透就够
-
-**先用 C 端小班课练手** ：找同城活动公众号合作分成，或用群脉联盟买同城群推广，办 99-199 元的 AI 办公夜校。一个活跃社群一场能招到几十人
-
-**用 AI 做好所有物料** ：用 DeepSeek 写推文和课程大纲，用 roboneo 生成活动海报，用豆包做教学演示素材。20 分钟搞定一套完整宣传物料
-
-**在抖音小红书铺内容** ：发 AI 干货短视频和图文笔记，展示你的培训现场和学员反馈，让企业客户主动找上门
-
-**切入 B 端拿大单** ：积累 5-10 场 C 端教学案例后，主动对接企业 HR 和培训部门，提供定制化 AI 培训方案，客单价从几千跳到上万
-
-## 去哪里学习？
-
-精华【实战复盘】一个人做AI培训师，如何从0粉，靠借势把个人经验成功变现？
-
-小圆【Ai企培】 · 01-21
-
-精华从追风口到练内功：我的2025创业复盘与慢生长之路
-
-千易 · 01-01
-
-精华B端智能体落地复盘：市场现状、核心问题与未来趋势
-
-拔刀刘 · 2025-11-24
-
-精华我做影刀RPA+AI企业服务的这一年半（生财首发）
-
-小调 · 2025-11-11
-
-精华下一个金矿，国内To B的 Agent智能体市场
-
-坤汀 · 2025-11-10
-
-精华【超级标12】AI工作流定制服务商
-
-亦仁 · 2025-11-07
-
-精华《采访了13个设计师和厂二代，我调研了“设计行业和传统工厂的转型方案”》
-
-同赴清秋 · 2025-10-17
-
-帖子用了800多天AI，我总结出普通人学AI最有效的方法：以用代学
-
-sky陈天 · 01-07
+项目实操

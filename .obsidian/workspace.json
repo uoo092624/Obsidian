@@ -11,12 +11,24 @@
             "id": "9ddf366974e720a1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "晨希AI工作室/2026中国电商AI应用白皮书.pdf"
+                "file": "Clippings/用好 AI 跟上时代.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "2026中国电商AI应用白皮书"
+              "icon": "lucide-file",
+              "title": "用好 AI 跟上时代"
             }
           }
         ]
@@ -154,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "晨希AI工作室/2026中国电商AI应用白皮书.pdf",
+                "file": "Clippings/用好 AI 跟上时代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026中国电商AI应用白皮书 的大纲"
+              "title": "用好 AI 跟上时代 的大纲"
             }
           },
           {
@@ -216,6 +228,8 @@
   },
   "active": "9ddf366974e720a1",
   "lastOpenFiles": [
+    "晨希AI工作室/2026中国电商AI应用白皮书.pdf",
+    "Clippings/用好 AI 跟上时代.md",
     "晨希AI工作室/2026中国AI应用全景图谱.png",
     "晨希AI工作室/【豆包】基于《2026 中国 AI 应用全景图谱》普通人可落地创业机会全解析.md",
     "晨希AI工作室/【豆包】AI 行业全层级权威信息源.md",
@@ -237,7 +251,6 @@
     "晨希AI工作室/hai_ai_index_report_2025.pdf",
     "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
     "晨希AI工作室/未确认 730799.crdownload",
-    "晨希AI工作室/2026中国电商AI应用白皮书.pdf",
     "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
     "Codex/raw/【Codexguide】Skills 和 Plugins.md",
     "Codex/raw/06 用 Codex 完成第一个任务.md",
@@ -253,7 +266,6 @@
     "闲鱼/【小红书】闲鱼小生意案例与微型服务逻辑.md",
     "闲鱼/assets/【小红书】闲鱼小生意案例与微型服务逻辑/file-20260622221954494.png",
     "闲鱼/【飞书】闲鱼电商路线图.md",
-    "闲鱼/【Codex】闲鱼运营资料库 + 学习路线.md",
     "闲鱼/assets/闲鱼最值得买的60个东西/file-20260620215902050.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/image-20260511172444574.png",
     "Codex/raw/assets/01 Codex 桌面 App 下载与安装/chatgpt-codex-get-started-clean.png",

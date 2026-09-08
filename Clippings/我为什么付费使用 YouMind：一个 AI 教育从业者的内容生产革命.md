@@ -1,12 +1,12 @@
 ---
-title: "用好 AI 跟上时代"
-source: "https://scys.com/articleDetail/xq_topic/82255255481421512"
+title: 我为什么付费使用 YouMind：一个 AI 教育从业者的内容生产革命
+source: https://scys.com/articleDetail/xq_topic/82255255481421512
 author:
 published:
 created: 2026-09-08
-description: "生财有术是专注普通人学习 AI 与创业的实战型社区，推崇真诚、务实、可落地的学习氛围，通过情报挖掘、会员分享、系统课程、项目实战与同行者圈子，帮助你学会用 AI、看懂趋势、抓住创业机会。自 2017 年创立以来，已有 7 万多人受益。"
+description: 生财有术是专注普通人学习 AI 与创业的实战型社区，推崇真诚、务实、可落地的学习氛围，通过情报挖掘、会员分享、系统课程、项目实战与同行者圈子，帮助你学会用 AI、看懂趋势、抓住创业机会。自 2017 年创立以来，已有 7 万多人受益。
 tags:
-  - "clippings"
+  - clippings
 ---
 上线第一个 Skill 到月收入超过 1500 美金，我用了 10 天。打开 YouMind Skill 市场5月付费榜，前 15 名里有 6 个是我做的。加起来持续自然增长到 2100 美金。
 

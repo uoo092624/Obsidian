@@ -1,12 +1,12 @@
 ---
-title: "用好 AI 跟上时代"
-source: "https://scys.com/money-ideas/detail/383"
+title: 抖音 AI 本地生活
+source: https://scys.com/money-ideas/detail/383
 author:
 published:
 created: 2026-09-09
-description: "生财有术是专注普通人学习 AI 与创业的实战型社区，推崇真诚、务实、可落地的学习氛围，通过情报挖掘、会员分享、系统课程、项目实战与同行者圈子，帮助你学会用 AI、看懂趋势、抓住创业机会。自 2017 年创立以来，已有 7 万多人受益。"
+description: 生财有术是专注普通人学习 AI 与创业的实战型社区，推崇真诚、务实、可落地的学习氛围，通过情报挖掘、会员分享、系统课程、项目实战与同行者圈子，帮助你学会用 AI、看懂趋势、抓住创业机会。自 2017 年创立以来，已有 7 万多人受益。
 tags:
-  - "clippings"
+  - clippings
 ---
 ## 抖音 AI 本地生活
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/【超级标14】小红书虚拟产品.md",
+                "file": "Clippings/用好 AI 跟上时代.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "【超级标14】小红书虚拟产品"
+              "title": "用好 AI 跟上时代"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -166,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/【超级标14】小红书虚拟产品.md",
+                "file": "Clippings/用好 AI 跟上时代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【超级标14】小红书虚拟产品 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -228,8 +230,9 @@
   },
   "active": "9ddf366974e720a1",
   "lastOpenFiles": [
-    "Clippings/普通人副业与创业：掌握占位思维，用关键词精准获客的流量秘籍.md",
     "Clippings/【超级标14】小红书虚拟产品.md",
+    "Clippings/用好 AI 跟上时代.md",
+    "Clippings/普通人副业与创业：掌握占位思维，用关键词精准获客的流量秘籍.md",
     "Clippings/GEO.md",
     "Clippings/gamsgo 信息差.md",
     "Clippings/海外优质内容虚拟产品化.md",
@@ -264,7 +267,6 @@
     "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
     "晨希AI工作室/未确认 730799.crdownload",
     "Codex/raw/【Codex】MCP,Skill,Plugins三者有什么别.md",
-    "Codex/raw/【Codexguide】Skills 和 Plugins.md",
     "Codex/未确认 34858.crdownload",
     "闲鱼/assets/【小红书】闲鱼小生意案例与微型服务逻辑/file-20260622221954494.png",
     "闲鱼/assets/闲鱼最值得买的60个东西/file-20260620215902050.png",

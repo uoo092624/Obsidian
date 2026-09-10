@@ -1,12 +1,12 @@
 ---
-title: "用好 AI 跟上时代"
-source: "https://scys.com/articleDetail/xq_topic/22255445411412851?_from=%2Faichat%2F20260910175036MgN6JbM"
+title: 从东方甄选翻身，到亦仁把岗位做成 Agent：我拆了3种公司，发现小团队未来只剩两条路
+source: https://scys.com/articleDetail/xq_topic/22255445411412851?_from=%2Faichat%2F20260910175036MgN6JbM
 author:
 published:
 created: 2026-09-10
-description: "生财有术是专注普通人学习 AI 与创业的实战型社区，推崇真诚、务实、可落地的学习氛围，通过情报挖掘、会员分享、系统课程、项目实战与同行者圈子，帮助你学会用 AI、看懂趋势、抓住创业机会。自 2017 年创立以来，已有 7 万多人受益。"
+description: 生财有术是专注普通人学习 AI 与创业的实战型社区，推崇真诚、务实、可落地的学习氛围，通过情报挖掘、会员分享、系统课程、项目实战与同行者圈子，帮助你学会用 AI、看懂趋势、抓住创业机会。自 2017 年创立以来，已有 7 万多人受益。
 tags:
-  - "clippings"
+  - clippings
 ---
 #### 很久没发帖了，今天想聊一下，是因为我这几天连续看到三个很有意思的信号。
 

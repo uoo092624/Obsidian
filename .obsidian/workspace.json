@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/如何从零开始打造自己的爆款监控系统.md",
+                "file": "Clippings/AI 内容创作的地基：信息源（以 AI、投资、设计三个领域为例）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "如何从零开始打造自己的爆款监控系统"
+              "title": "AI 内容创作的地基：信息源（以 AI、投资、设计三个领域为例）"
             }
           }
         ]
@@ -202,13 +202,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Clippings/AI 内容创作的地基：信息源（以 AI、投资、设计三个领域为例）.md"
+              },
               "icon": "lucide-info",
               "title": "笔记属性"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -230,8 +232,9 @@
   },
   "active": "9ddf366974e720a1",
   "lastOpenFiles": [
-    "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
     "Clippings/如何从零开始打造自己的爆款监控系统.md",
+    "Clippings/AI 内容创作的地基：信息源（以 AI、投资、设计三个领域为例）.md",
+    "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
     "Clippings/一年省下 2 万块口语课｜GPT Live 实测：英语外教可以下岗了，保姆级口语自学教程.md",
     "Clippings/小红书主页怎么写，别人看了才想关注你（附简介模板、主页自检表）.md",
     "Clippings/用小红书获客：从第一篇笔记到第一次有效咨询，完整拆一遍.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/ChatGPT Plus 代充Session Token 技术原理调研.md",
+                "file": "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ChatGPT Plus 代充Session Token 技术原理调研"
+              "title": "AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/ChatGPT Plus 代充Session Token 技术原理调研.md",
+                "file": "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,8 +232,9 @@
   },
   "active": "9ddf366974e720a1",
   "lastOpenFiles": [
-    "Clippings/AI 内容创作的地基：信息源（以 AI、投资、设计三个领域为例）.md",
     "Clippings/ChatGPT Plus 代充Session Token 技术原理调研.md",
+    "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
+    "Clippings/AI 内容创作的地基：信息源（以 AI、投资、设计三个领域为例）.md",
     "Clippings/这个封装了我3年自媒体经验的AI热点网站，今天向所有人免费开放。.md",
     "Clippings/如何从零开始打造自己的爆款监控系统.md",
     "晨希AI工作室/2026中国AI应用全景图谱报告【量子位智库】.pdf",
@@ -258,7 +259,6 @@
     "Clippings/手机卡买卖，大学靠这个生意赚到了40万出头.md",
     "Clippings/我是如何通过多渠道引流，做到覆盖全国 1000+ 高校流量资源，引流 50 万+的.md",
     "Clippings/【超级标17】付费MCP.md",
-    "Clippings/抖音 AI 本地生活.md",
     "晨希AI工作室/2026中国电商AI应用白皮书.pdf",
     "晨希AI工作室/2026中国AI应用全景图谱.png",
     "晨希AI工作室/assets/【chatgpt】AI行业权威信息源全景清单_国内与海外_2026-06版/file-20260630194838248.png",

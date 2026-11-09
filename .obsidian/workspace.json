@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/搭了个 AI 内容工作台，把会议、录音、文档变成文章，一键推到公众号和X（已开源）.md",
+                "file": "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "搭了个 AI 内容工作台，把会议、录音、文档变成文章，一键推到公众号和X（已开源）"
+              "title": "AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/搭了个 AI 内容工作台，把会议、录音、文档变成文章，一键推到公众号和X（已开源）.md",
+                "file": "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,10 +230,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9ddf366974e720a1",
+  "active": "26fe1ce844ca2775",
   "lastOpenFiles": [
-    "Clippings/【生财有术】11 月航海项目拆解帖，这 15 条船到底怎么选？.md",
     "Clippings/搭了个 AI 内容工作台，把会议、录音、文档变成文章，一键推到公众号和X（已开源）.md",
+    "Clippings/【生财有术】11 月航海项目拆解帖，这 15 条船到底怎么选？.md",
     "Clippings/【生财有术】想赚1000万的钱就不要去做赚100万的活.md",
     "Clippings/小红书矩阵怎么获客？我用50个账号跑出了一套实操方法！！！.md",
     "Clippings/小红书矩阵号实操手册：账号准备、设备配置、IP 管理与异常排查.md",

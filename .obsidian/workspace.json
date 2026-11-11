@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
+                "file": "Clippings/API中转站,比贩毒还赚.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？"
+              "title": "API中转站,比贩毒还赚"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
+                "file": "Clippings/API中转站,比贩毒还赚.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,8 +230,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "26fe1ce844ca2775",
+  "active": "9ddf366974e720a1",
   "lastOpenFiles": [
+    "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
+    "Clippings/API中转站,比贩毒还赚.md",
     "Clippings/搭了个 AI 内容工作台，把会议、录音、文档变成文章，一键推到公众号和X（已开源）.md",
     "Clippings/【生财有术】11 月航海项目拆解帖，这 15 条船到底怎么选？.md",
     "Clippings/【生财有术】想赚1000万的钱就不要去做赚100万的活.md",
@@ -247,7 +249,6 @@
     "Clippings/AI 代充业务拆解：卡网怎么搭？分享两种方式.md",
     "Clippings/ChatGPT Plus 代充Session Token 技术原理调研.md",
     "Clippings/gamsgo 信息差.md",
-    "Clippings/AI 代充业务拆解：卡台、卡网、API 和代理到底是什么关系？.md",
     "Clippings/AI 内容创作的地基：信息源（以 AI、投资、设计三个领域为例）.md",
     "Clippings/这个封装了我3年自媒体经验的AI热点网站，今天向所有人免费开放。.md",
     "Clippings/如何从零开始打造自己的爆款监控系统.md",
@@ -258,7 +259,6 @@
     "闲鱼/闲鱼最值得买的60个东西.md",
     "闲鱼/闲鱼榜单数据.md",
     "闲鱼/百万Sir闲鱼运营全流程-视频文字稿.md",
-    "闲鱼/【X平台】24分钟讲完从0到月入过万流程.md",
     "晨希AI工作室/2026中国电商AI应用白皮书.pdf",
     "晨希AI工作室/2026中国AI应用全景图谱.png",
     "晨希AI工作室/assets/【chatgpt】AI行业权威信息源全景清单_国内与海外_2026-06版/file-20260630194838248.png",

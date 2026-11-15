@@ -1,5 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "#994ce6",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "showRibbon": true
 }

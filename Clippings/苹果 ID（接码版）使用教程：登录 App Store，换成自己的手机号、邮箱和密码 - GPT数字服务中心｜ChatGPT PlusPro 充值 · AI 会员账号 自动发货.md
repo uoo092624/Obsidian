@@ -1,13 +1,3 @@
----
-title: "苹果 ID（接码版）使用教程：登录 App Store，换成自己的手机号、邮箱和密码 - GPT数字服务中心｜ChatGPT Plus/Pro 充值 · AI 会员账号 自动发货"
-source: "https://paocn.com/blog/apple-id-code-url-guide"
-author:
-published: 2026年11月24日
-created: 2026-11-24
-description: "发货内容是「账号----密码----接码网址」的苹果 ID：用接码网址收验证码登录 App Store，再到苹果账户网页把手机号、邮箱、受信任设备和密码都换成你自己的。"
-tags:
-  - "clippings"
----
 这篇适用于发货内容是「 **账号----密码----接码网址** 」的苹果 ID。登录要用的验证码在接码网址里看；登录以后按下面的顺序，把手机号、邮箱、设备和密码都换成你自己的，这个账号就完全归你了。
 
 **⏰ 接码网址只有 7 天有效**
@@ -33,7 +23,7 @@ tags:
 
 图 1：填发货里的账号和密码（点图放大）
 
-App Store 里已经登录了别的账号的，先退出再登录，见 [《App Store 怎么换苹果账号登录（不影响 iCloud）》](https://paocn.com/blog/app-store-switch-apple-id) 。
+App Store 里已经登录了别的账号的，先退出再登录，见 [《App Store 怎么换苹果账号登录（不影响 iCloud）》] 。
 
 **第 2 步：** 提示「双重认证」要输入验证码时，用浏览器打开发货里的接码网址，页面上会显示「Your code is」和 6 位数字，把这 6 位数字填进去就登录好了。
 
@@ -160,31 +150,3 @@ App Store 里已经登录了别的账号的，先退出再登录，见 [《App S
 - 新密码记下来。以后用你的邮箱和新密码登录，验证码发到你自己的手机上。
 
 都对的话，就大功告成了。
-
-## 相关商品
-
-[美区苹果 ID（接码版）｜独享成品号｜只能登录 App Store](https://paocn.com/products/apple-id-us-code)
-
-[
-
-20.00 CNY
-
-](https://paocn.com/products/apple-id-us-code)[
-
-港区苹果 ID（接码版）｜独享成品号｜只能登录 App Store
-
-20.00 CNY
-
-](https://paocn.com/products/apple-id-hk-code)[
-
-日区苹果 ID（接码版）｜独享成品号｜只能登录 App Store
-
-20.00 CNY
-
-](https://paocn.com/products/apple-id-jp-code)[
-
-土耳其区苹果 ID（接码版）｜独享成品号｜只能登录 App Store
-
-20.00 CNY
-
-](https://paocn.com/products/apple-id-tr-code)

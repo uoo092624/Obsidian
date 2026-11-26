@@ -1,13 +1,5 @@
----
-title: "第一次买 AI 订阅：先分清类型与交付，再比到手价"
-source: "https://shuita.xyz/guide/ai-subscription-getting-started"
-author:
-published: 2026-11-14
-created: 2026-11-27
-description: "先分清账号订阅与 API，再识别直充、卡密、成品号和拼车，最后按同规格比较人民币到手价并核对质保与账号安全。"
-tags:
-  - "clippings"
----
+# 第一次买 AI 订阅：先分清类型与交付，再比到手价
+
 ## 第一步：先确定需要订阅还是 API
 
 常用网页或 App，看 **账号订阅** ；让程序或插件调接口，才看 **API** 。第三方 API 中转不是官方会员，计费、额度和数据路径都不同。
@@ -84,12 +76,3 @@ tags:
 
 可直接照着 [下单核对清单](https://shuita.xyz/guide/ai-subscription-buying-checklist#%E4%B8%8B%E5%8D%95%E5%89%8D-%E9%80%90%E9%A1%B9%E6%A0%B8%E5%AF%B9) 和 [账号安全底线](https://shuita.xyz/guide/ai-subscription-buying-checklist#%E4%BA%A4%E4%BB%98%E4%B8%8E%E8%B4%A6%E5%8F%B7%E5%AE%89%E5%85%A8%E7%9A%84%E5%BA%95%E7%BA%BF) 检查。
 
-## 现在去比价
-
-已经知道要买什么，可以进入 [ChatGPT Plus 直充](https://shuita.xyz/sku/gpt_plus_topup) 、 [Claude Pro](https://shuita.xyz/sku/claude_pro) 或 [Gemini Pro](https://shuita.xyz/sku/gemini_pro) 比较当前有货报价。还没确定档位，就先回到 [攻略目录](https://shuita.xyz/guides) ，按产品查看选档指南。
-
-## 来源
-
-- 交付形态与术语： [AI 卡网术语释义](https://shuita.xyz/guide/ai-card-shop-glossary) 、 [ChatGPT Plus 购买方式](https://shuita.xyz/guide/chatgpt-plus-buying-options)
-- 价格口径与验收： [官方价与渠道价对照](https://shuita.xyz/guide/official-vs-channel-prices) 、 [AI 订阅选购核验清单](https://shuita.xyz/guide/ai-subscription-buying-checklist)
-- 交易边界：水獭汇集各店公开报价供比对，实际下单与售后以店铺商品页为准
